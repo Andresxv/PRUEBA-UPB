@@ -1,2 +1,2 @@
 def xd():
- print("hola")
+ print("iniciando...")
